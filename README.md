@@ -25,6 +25,15 @@ Client:
 
 
 
+How to install and use: 
+1. Clone the project or download the zip
+2. After pasting the project and changing the above changes  run **npm install**  to install all the dependencies for the server.
+3. cd client and npm install to install all the dependencies for the client(react,react-dom and babel)
+4.go to where mongodb is installed and in a cmd type: cd bin then type mongod
+5. to run just the server: npm run server. to run just the client: npm run client. to run both server and client:npm run dev
+
+
+
 
 
 
