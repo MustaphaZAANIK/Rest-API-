@@ -17,15 +17,11 @@ How to install and use:
 
 
 
-
-
-![000](https://user-images.githubusercontent.com/44630594/47827149-02ef9280-dd74-11e8-841b-8482f771b975.jpg)
-
-
-
-![untitled](https://user-images.githubusercontent.com/44630594/47827154-0a16a080-dd74-11e8-9321-9d4f0d0e3dfd.png)
+- ![000](https://user-images.githubusercontent.com/44630594/47827149-02ef9280-dd74-11e8-841b-8482f771b975.jpg)
 
 
 
-![untitled png2](https://user-images.githubusercontent.com/44630594/47827161-0edb5480-dd74-11e8-9a7e-703b43779c55.png)
+- ![untitled](https://user-images.githubusercontent.com/44630594/47827154-0a16a080-dd74-11e8-9321-9d4f0d0e3dfd.png)
+
+-![untitled png2](https://user-images.githubusercontent.com/44630594/47827161-0edb5480-dd74-11e8-9a7e-703b43779c55.png)
 
